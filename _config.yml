@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
+remote_theme:     hyde
 
 # Permalinks
 permalink:        pretty
