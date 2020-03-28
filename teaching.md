@@ -7,8 +7,6 @@ title: Teaching
   "Education is not the filling of a pail but the lighting of a fire" <br /> -William Butler Yeats
 </p>
 
-This page will be dedicated organizing my teaching websites, outlining previous teaching experience, etc.
-
 Currently Teaching:
 
 * I am not teaching this semester.
