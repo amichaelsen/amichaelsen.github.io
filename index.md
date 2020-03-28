@@ -8,7 +8,7 @@ title: About Me
 
 I am a first year graduate student in mathematics at UC Berkeley.
 For undergrad I attended Williams College where I completed my [thesis](/research) with Susan Loepp.
-My research interests are in number theory and arithmetic statistics.
+My research interests are in algebraic number theory.
 
 
 My CV can be found [here](/assets/cv.pdf). You can also view courses I have taught or am teaching
