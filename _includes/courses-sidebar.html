@@ -1,0 +1,39 @@
+{% comment %}
+Using the order specified in "order" creates an entry in the
+sidebar for each page listed in the courses/?? directory directory.
+Needs to be passed a "course-dir" in the include statement.
+{% endcomment %}
+
+
+<div class="sidebar">
+    <div class="container sidebar">
+        <div class="sidebar-about">
+            <h1>
+                {% assign path =  page.path | split: "/"  %}
+                {% assign course = path[1] %}
+                {% assign course-url = "/courses/" | append: course  %}
+                <a href="{{ course-url }}">
+                {{ course | capitalize }}
+                </a>
+            </h1>
+            <p class="lead">{{ site.description }}</p>
+        </div>
+
+        <nav class="sidebar-nav">
+            {% assign order = "Home, Lectures, Homework" | split: ", " %}
+            {% assign path =  page.path | split: "/"  %}
+            {% assign course = path[1] %}
+
+            {% for item in order %}
+                {% assign entries = site.pages | where: "title", item   %}
+                {% for entry in entries %}
+
+                    {% if entry.path contains {{course}} %}
+                        <a class="sidebar-nav-item{% if page.url == entry.url %} active{% endif %}" href="{{ entry.url }}">{{ entry.title }}</a>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </nav>
+
+    </div>
+</div>

@@ -9,7 +9,7 @@ title: Teaching
 
 Currently Teaching:
 
-* I am not teaching this semester.
+* Spring 2020: [MATH 2](/courses/math2)
 
 Previously Taught:
 

@@ -5,7 +5,11 @@
 
   <body class="theme-base-10">
 
-    {% include sidebar.html %}
+    {% if page.dir contains "courses" %}
+      {% include courses-sidebar.html %}
+    {% else %}
+        {% include personal-sidebar.html %}
+    {% endif %}
 
     <div class="content container">
       {{ content }}
