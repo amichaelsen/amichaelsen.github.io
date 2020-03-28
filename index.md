@@ -23,6 +23,8 @@ anya_michaelsen [at] berkeley [dot] edu.
 
 {% include img-with-caption.html url="/assets/photos/thesis-presentation.jpg" description="My senior thesis presentation at Williams College." %}
 
+<footer style="margin-top: 100px; text-align: right; font-size: 12pt; color: grey">
 
+Last updated: March 28, 2020
 
-
+<footer/>
