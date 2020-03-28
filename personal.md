@@ -10,7 +10,7 @@ at local coffee shops, cooking, reading, and playing games.
 
 **Some hiking photos:**
 
-{% include img-with-caption.html url="/assets/photos/AWS-hike.jpg" description="Hike in Sabino Canyon at AWS." %}
+{% include img-with-caption.html url="/assets/photos/AWS-hike.jpg" description="Hike in Sabino Canyon at Arizona Winter School." %}
 
 {% include img-with-caption.html url="/assets/photos/hiking-mountain-lion.jpg" description="Hiking in South Bay." %}
 
