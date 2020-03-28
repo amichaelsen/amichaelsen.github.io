@@ -40,7 +40,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About Me</a>
+      <a class="sidebar-nav-item{% if page.url == "/" | relative_url %} active{% endif %}" href="{{ "/" | relative_url }}">About Me</a>
       <a class="sidebar-nav-item{% if page.url == research.url %} active{% endif %}" href="{{ research.url }}">{{ research.title }}</a>
       <a class="sidebar-nav-item{% if page.url == teaching.url %} active{% endif %}" href="{{ teaching.url }}">{{ teaching.title }}</a>
       <a class="sidebar-nav-item{% if page.url == service.url %} active{% endif %}" href="{{ service.url }}">{{ service.title }}</a>
