@@ -1,0 +1,53 @@
+<div class="sidebar">
+  <div class="container sidebar">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            {% if node.title == "Personal" %}
+              {% assign personal = node%}
+            {% endif %}
+            {% if node.title == "Teaching" %}
+              {% assign teaching = node%}
+            {% endif %}
+            {% if node.title == "Research" %}
+              {% assign research = node%}
+            {% endif %}
+      {% if node.title == "Service" %}
+      {% assign service = node%}
+      {% endif %}
+      {% if node.title == "Articles" %}
+      {% assign articles = node%}
+      {% endif %}
+                {%comment%}<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+                          href="{{ node.url }}">{{ node.title }}</a>{%endcomment%}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About Me</a>
+      <a class="sidebar-nav-item{% if page.url == research.url %} active{% endif %}" href="{{ research.url }}">{{ research.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == teaching.url %} active{% endif %}" href="{{ teaching.url }}">{{ teaching.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == service.url %} active{% endif %}" href="{{ service.url }}">{{ service.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == articles.url %} active{% endif %}" href="{{ articles.url }}">{{ articles.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == personal.url %} active{% endif %}" href="{{ personal.url }}">{{ personal.title }}</a>
+    </nav>
+
+   {% comment %} <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> {% endcomment %}
+  </div>
+</div>

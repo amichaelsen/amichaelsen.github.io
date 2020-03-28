@@ -1,0 +1,28 @@
+---
+layout: page
+title: About Me
+---
+
+
+![image](/assets/photos/anya.jpg){:.photo-circle}
+
+I am a first year graduate student in mathematics at UC Berkeley.
+For undergrad I attended Williams College where I completed my [thesis](/research) with Susan Loepp.
+My research interests are in number theory and arithmetic statistics.
+
+
+My CV can be found [here](/assets/cv.pdf). You can also view courses I have taught or am teaching
+[here](/teaching) and my publications are listed [here](/research). You can find other writing
+I've done in [articles](/articles).
+
+My email is:
+
+anya_michaelsen [at] berkeley [dot] edu.
+
+<br/>
+
+{% include img-with-caption.html url="/assets/photos/thesis-presentation.jpg" description="My senior thesis presentation at Williams College." %}
+
+
+
+
