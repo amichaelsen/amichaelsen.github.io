@@ -8,7 +8,7 @@ title: Articles
 ![test](/assets/nullstellenfont_ANYA.png)
 
 For MATH 487: Algebraic Geometry at Williams College, taught by Ralph Morrison, Ben Logsdon and I created a font
-out of affine varieties, called Nullstellenfont. Our [article](/404) about it was published in the April 2020
+out of affine varieties, called Nullstellenfont. Our article about it will appear in the April 2020
 edition of [Math Horizons](https://www.maa.org/press/periodicals/math-horizons).  We also created code to convert a string of text to an affine variety and
 compute the defining equation. You can see an example [here](/assets/anya-nullstellenfont.pdf). You can
 also [make your own text](https://sites.google.com/williams.edu/nullstellenfont/) or check out the [code](https://github.com/bclogsdon/nullstellenfont).
