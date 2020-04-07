@@ -22,3 +22,69 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+
+- selector: climbing
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/photos/climbing/climbing 1.png
+      alt: Climbing at Bridges in Berkeley
+    - src: /assets/photos/climbing/climbing 2.png
+      alt: Climbing at Bridges in Berkeley
+    - src: /assets/photos/climbing/tahoe rocks.jpg
+      alt: Some wild rocks near Lake Tahoe
+  settings:
+    height: 500
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+
+- selector: skiing
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/photos/skiing/skiing 1.jpg
+      alt: Skiing at Kirkwood
+    - src: /assets/photos/skiing/skiing 2.jpg
+      alt: "Not featured: the Trench of Terror"
+    - src: /assets/photos/skiing/skiing 3.jpg
+      alt: Skiing at Kirkwood
+  settings:
+    height: 500
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+
+- selector: water
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/photos/water sports/paddleboarding.jpg
+      alt: Paddleboarding
+    - src: /assets/photos/water sports/surfing.jpg
+      alt: Surfing in Pacifica
+  settings:
+    height: 500
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
