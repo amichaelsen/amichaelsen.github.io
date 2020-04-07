@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Personal
+image_sliders:
+  - hiking
 ---
 
 When I'm not doing math you can find me climbing (indoors, for now), hiking in the Berkeley hills and beyond, skiing at Kirkwood, hanging out
@@ -10,6 +12,9 @@ at local coffee shops, cooking, reading, and playing games.
 
 **Some hiking photos:**
 
+{% include slider.html selector="hiking" %}
+
+{% comment %}
 {% include img-with-caption.html url="/assets/photos/AWS-hike.jpg" description="Hike in Sabino Canyon at Arizona Winter School." %}
 
 {% include img-with-caption.html url="/assets/photos/hiking-mountain-lion.jpg" description="Hiking in South Bay." %}
@@ -17,6 +22,7 @@ at local coffee shops, cooking, reading, and playing games.
 {% include img-with-caption.html url="/assets/photos/mt greylock.jpg" description="Mt. Greylock near Williams College" %}
 
 {% include img-with-caption.html url="/assets/photos/sunrise hike.jpg" description="Sunrise from Pine Cobble near Williams College." %}
+{% endcomment %}
 
 **Some climbing photos:**
 
