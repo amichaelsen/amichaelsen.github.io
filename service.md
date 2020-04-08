@@ -29,7 +29,7 @@ Theory (Neukirch).
 
 **Science Fair Judging**
 
-As an alumnus of science fairs such as International Science and Engineering Fair [(ISEF)](https://www.societyforscience.org/isef/),
+As an alumn of science fairs such as International Science and Engineering Fair [(ISEF)](https://www.societyforscience.org/isef/),
  Science Talent Search [(STS)](https://www.societyforscience.org/regeneron-sts/),
  and the Junior Science and Humanities Symposium [(JSHS)](https://www.jshs.org/), I know the value of encouraging young students
 interested in STEM and research. To play a part encouraging the next generation of researchers, I
