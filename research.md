@@ -19,7 +19,8 @@ title: Research
 (Emory REU 2017) with Tessa Cotron, Emily Stamm, and Weitao Zhu. Advised by Ken Ono.<br/>
 [[paper]](https://arxiv.org/abs/1707.04627) [[slides]](/assets/jmm emory REU slides.pdf)
 
-* T. Cotron, A. Michaelsen, E. Stamm, W. Zhu. *Lacunary Eta-quotients modulo powers of primes*. Ramanujan Journal. Accepted.
+* Cotron, T., Michaelsen, A., Stamm, E. et al. Lacunary eta-quotients modulo powers of primes. Ramanujan J (2020). 
+[[DOI]](https://doi.org/10.1007/s11139-020-00257-y)
 
 <br/>
 
