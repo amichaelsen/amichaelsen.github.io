@@ -6,7 +6,7 @@ title: About Me
 
 ![image](/assets/photos/anya.jpg){:.photo-circle}
 
-I am a first year graduate student in mathematics at UC Berkeley.
+I am a second year graduate student in mathematics at UC Berkeley working with [Melanie Wood](http://people.math.harvard.edu/~mmwood/).
 For undergrad I attended Williams College where I completed my [thesis](/research) with Susan Loepp.
 My research interests are in algebraic number theory.
 
@@ -25,6 +25,6 @@ anya_michaelsen [at] berkeley [dot] edu.
 
 <footer style="margin-top: 100px; text-align: right; font-size: 12pt; color: grey">
 
-Last updated: July 18, 2020
+Last updated: July 28, 2020
 
 <footer/>
