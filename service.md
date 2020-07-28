@@ -23,8 +23,8 @@ During my time at Williams College I served as an officer and president of the S
 
 **Directed Reading Program**
 
-This semester I joined the [Directed Reading Program](https://math.berkeley.edu/wp/drp/) at Berkeley as a mentor.
-My student and I have been thinking about Modular Forms (Diamond and Shurman) and Algebraic Number
+In my first year at Berkeley I volunteered for the [Directed Reading Program](https://math.berkeley.edu/wp/drp/) as a mentor.
+My student read about Modular Forms (Diamond and Shurman) and Algebraic Number
 Theory (Neukirch).
 
 **Science Fair Judging**
