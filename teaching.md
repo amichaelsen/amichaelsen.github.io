@@ -9,7 +9,7 @@ title: Teaching
 
 Currently Teaching:
 
-* Spring 2020: [MATH 2](/courses/math2)
+* Fall 2020: [MATH 1B](/courses/math1B)
 
 Previously Taught:
 

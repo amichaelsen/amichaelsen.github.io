@@ -13,14 +13,14 @@ Needs to be passed a "course-dir" in the include statement.
                 {% assign course = path[1] %}
                 {% assign course-url = "/courses/" | append: course  %}
                 <a href="{{ course-url }}">
-                {{ course | capitalize }}
+                {{ course }}
                 </a>
             </h1>
             <p class="lead">{{ site.description }}</p>
         </div>
 
         <nav class="sidebar-nav">
-            {% assign order = "Home, Lectures, Homework" | split: ", " %}
+            {% assign order = "Home, Discussions, Homework" | split: ", " %}
             {% assign path =  page.path | split: "/"  %}
             {% assign course = path[1] %}
 

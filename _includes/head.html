@@ -9,7 +9,7 @@
   <title>
     {% if page.dir contains "courses" %}
       {% assign path =  page.path | split: "/"  %}
-      {{ path[1] | capitalize }} &middot; {{ page.title }}
+      {{ path[1] }} &middot; {{ page.title }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
