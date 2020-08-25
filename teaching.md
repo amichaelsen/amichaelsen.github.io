@@ -9,7 +9,7 @@ title: Teaching
 
 Currently Teaching:
 
-* I am not teaching this semester.
+* Fall 2020: I am a GSI for [Math 1B](https://bcourses.berkeley.edu/courses/1495295) for Professor Paulin.
 
 Previously Taught:
 
