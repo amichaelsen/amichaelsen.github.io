@@ -6,9 +6,9 @@ title: About Me
 
 ![image](/assets/photos/anya.jpg){:.photo-circle}
 
-I am a second year graduate student in mathematics at UC Berkeley working with [Melanie Wood](http://people.math.harvard.edu/~mmwood/).
+I am a second year graduate student in mathematics at UC Berkeley advised by [Melanie Wood](http://people.math.harvard.edu/~mmwood/).
 For undergrad I attended Williams College where I completed my [thesis](/research) with Susan Loepp.
-My research interests are in algebraic number theory.
+My research interests are in (algebraic) number theory.
 
 
 My CV can be found [here](/assets/cv.pdf). You can also view courses I have taught or am teaching
