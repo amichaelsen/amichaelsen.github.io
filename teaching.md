@@ -9,9 +9,12 @@ title: Teaching
 
 Currently Teaching:
 
-* Fall 2020: I am a GSI for [Math 1B](https://bcourses.berkeley.edu/courses/1495295) for Professor Paulin.
+* I am not currently teaching this semester.
 
 Previously Taught:
+
+
+* Fall 2020: I am a GSI for [Math 1B](https://bcourses.berkeley.edu/courses/1495295) for Professor Paulin.
 
 * Spring 2019:  MATH 355 Abstract Algebra, TA (Williams College)
 * Fall 2018:    [MATH 313](https://web.williams.edu/Mathematics/lg5/313/) Number Theory, TA (Williams College)

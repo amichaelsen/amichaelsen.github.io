@@ -13,7 +13,7 @@ My research interests are in (algebraic) number theory.
 
 My CV can be found [here](/assets/cv.pdf). You can also view courses I have taught or am teaching
 [here](/teaching) and my publications are listed [here](/research). You can find other writing
-I've done in [articles](/articles).
+I've done [here](/articles).
 
 My email is:
 

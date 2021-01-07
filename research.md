@@ -19,14 +19,14 @@ title: Research
 (Emory REU 2017) with Tessa Cotron, Emily Stamm, and Weitao Zhu. Advised by Ken Ono.<br/>
 [[paper]](https://arxiv.org/abs/1707.04627) [[slides]](/assets/jmm emory REU slides.pdf)
 
-* Cotron, T., Michaelsen, A., Stamm, E. et al. Lacunary eta-quotients modulo powers of primes. Ramanujan J (2020). 
-[[DOI]](https://doi.org/10.1007/s11139-020-00257-y)
+* Cotron, T., Michaelsen, A., Stamm, E. et al. Lacunary eta-quotients modulo powers of primes. Ramanujan J. **53** (2020) no.2 pp.269-284. 
+<!-- [[paper]](https://doi.org/10.1007/s11139-020-00257-y) -->
 
 <br/>
 
 ![test](/assets/photos/photo with corey cleland.jpg){:.photo-right}
 
-*Kinematic determinants of scoring success in the fencing ﬂick: Logistic and linear multiple regression analysis* <br/>
+*Kinematic determinants of scoring success in the fencing ﬂick: Logistic and linear multiple regression analysis*. <br/>
 Advised by Corey Cleland. <br/>
 [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222075)
 
