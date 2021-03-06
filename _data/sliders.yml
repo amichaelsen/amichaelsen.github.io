@@ -11,6 +11,22 @@
       alt: Mt. Greylock near Williams College
     - src: /assets/photos/hiking/sunrise hike.jpg
       alt: Sunrise from Pine Cobble near Williams College.
+    - src: /assets/photos/hiking/emigrant lake.jpg
+      alt: Emigrant Lake near Lake Tahoe.
+    - src: /assets/photos/hiking/mt diablo from nt peak.jpg
+      alt: Mount Diablo seen from North Peak.
+    - src: /assets/photos/hiking/alpine start.jpg
+      alt: Alpine start!
+    - src: /assets/photos/hiking/mt diablo from tilden.jpg
+      alt: Mount Diablo from Tilden Park.
+    - src: /assets/photos/hiking/wildcat peak sunrise1.jpg
+      alt: Sunrise at Wildcat Peak.
+    - src: /assets/photos/hiking/mt diablo.jpg
+      alt: Hiking in Mt Diablo State Park.
+    - src: /assets/photos/hiking/sierras from north peak.jpg
+      alt: Looking at the Sierra Nevadas from near Mt. Diablo.
+    - src: /assets/photos/hiking/wildcat peak sunrise2.jpg
+      alt: Sunrise at Wildcat Peak.
   settings:
     height: 500
     initialHeight:
@@ -27,12 +43,14 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/photos/climbing/climbing 1.png
-      alt: Climbing at Bridges in Berkeley
-    - src: /assets/photos/climbing/climbing 2.png
-      alt: Climbing at Bridges in Berkeley
     - src: /assets/photos/climbing/tahoe rocks.jpg
-      alt: Some wild rocks near Lake Tahoe
+      alt: Some wild rocks near Lake Tahoe.
+    - src: /assets/photos/climbing/climbing 3.jpg
+      alt: Climbing at Bridges in Berkeley.
+    - src: /assets/photos/climbing/climbing 1.png
+      alt: Climbing at Bridges in Berkeley.
+    - src: /assets/photos/climbing/climbing 2.png
+      alt: Climbing at Bridges in Berkeley.
   settings:
     height: 500
     initialHeight:
@@ -69,14 +87,51 @@
     nextNavSelector:
 
 
-- selector: water
+- selector: misc
   bullets: true
   captions: true
   images:
-    - src: /assets/photos/water sports/paddleboarding.jpg
-      alt: Paddleboarding
-    - src: /assets/photos/water sports/surfing.jpg
-      alt: Surfing in Pacifica
+    - src: /assets/photos/misc/paddleboarding.jpg
+      alt: Paddleboarding.
+    - src: /assets/photos/misc/surfing.jpg
+      alt: Surfing in Pacifica.
+    - src: /assets/photos/misc/biking.jpg
+      alt: Biking in Tilden Park.
+  settings:
+    height: 500
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: flowers
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/photos/flowers/flower1.jpg
+    - src: /assets/photos/flowers/flower2.jpg
+    - src: /assets/photos/flowers/flower3.jpg
+    - src: /assets/photos/flowers/flower4.jpg
+    - src: /assets/photos/flowers/flower5.jpg
+    - src: /assets/photos/flowers/flower6.jpg
+    - src: /assets/photos/flowers/flower7.jpg
+    - src: /assets/photos/flowers/flower8.jpg
+    - src: /assets/photos/flowers/flower9.jpg
+    - src: /assets/photos/flowers/flower10.jpg
+    - src: /assets/photos/flowers/flower11.jpg
+    - src: /assets/photos/flowers/flower12.jpg
+    - src: /assets/photos/flowers/flower13.jpg
+    - src: /assets/photos/flowers/flower14.jpg
+    - src: /assets/photos/flowers/flower15.jpg
+    - src: /assets/photos/flowers/flower16.jpg
+    - src: /assets/photos/flowers/flower17.jpg
+    - src: /assets/photos/flowers/flower18.jpg
+    - src: /assets/photos/flowers/flower19.jpg
   settings:
     height: 500
     initialHeight:

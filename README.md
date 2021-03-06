@@ -12,6 +12,7 @@ This website was created using [Jekyll](https://jekyllrb.com/), speifically modi
 
 **Page Components** such as the photo image sliders are stored in the `_includes` directory. 
 
+**Photo Lists/Captions** for the personal page are stored in `_data/sliders.yml`.
 
 # Running Locally 
 
