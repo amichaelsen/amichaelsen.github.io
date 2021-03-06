@@ -5,9 +5,9 @@ title: Service
 
 
 
-## Community Groups
+## Community Service
 
-At UC Berkeley I serve as a student representative on the Math Department's [Equity and Inclusion Committee](https://math.berkeley.edu/resources/equity-inclusion-and-diversity).
+At UC Berkeley I serve as a student representative on the Math Department's [Equity and Inclusion Committee](https://math.berkeley.edu/resources/equity-inclusion-and-diversity) and in Spring 2021 I have been working as a Graduate Assembly [Department Climate Advocate](https://www.ga.berkeley.edu/about/open-positions/) for the math department.
 I am also an officer of the Mathematics Graduate Student Association (MGSA) and previously served on Unbounded Representation (URep), student groups which organize
 student events from office draw, picnics, weekly teas, movie nights, and more! I am also part of [Noetherian Ring](https://nring.math.berkeley.edu/) a network
 of academics who identify with gender minorities in math at UC Berkeley.
@@ -22,11 +22,15 @@ I also served on the Computer Science Student  Activities/Advisory Committee ([C
 
 <!-- started and served as a mentor for the grad student peer mentor program  -->
 
+**Peer Mentor Program at UC Berkeley**
+
+As part of the Mathematics Graduate Student Association, I helped create a peer mentorship program for first year graduate students in the math department at UC Berkeley and have been serving as a peer mentor myself since Fall 2020.  
+
 **Science Fair Judging**
 
-As an alumn of science fairs such as International Science and Engineering Fair [(ISEF)](https://www.societyforscience.org/isef/),
- Science Talent Search [(STS)](https://www.societyforscience.org/regeneron-sts/),
- and the Junior Science and Humanities Symposium [(JSHS)](https://www.jshs.org/), I know the value of encouraging young students
+As an alumn of science fairs such as International Science and Engineering Fair ([ISEF](https://www.societyforscience.org/isef/)),
+ Science Talent Search ([STS](https://www.societyforscience.org/regeneron-sts/)),
+ and the Junior Science and Humanities Symposium ([JSHS](https://www.jshs.org/)), I know the value of encouraging young students
 interested in STEM and research. To play a part encouraging the next generation of researchers, I
 have volunteered in judging regional science fairs such as [Sciencepalooza](https://outreach-foundation.org/programs/sciencepalooza/). 
 <!-- add VA state science fair here too -->

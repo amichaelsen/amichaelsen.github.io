@@ -25,6 +25,6 @@ anya_michaelsen [at] berkeley [dot] edu.
 
 <footer style="margin-top: 100px; text-align: right; font-size: 12pt; color: grey">
 
-Last updated: July 28, 2020
+Last updated: March 5, 2021
 
 <footer/>
