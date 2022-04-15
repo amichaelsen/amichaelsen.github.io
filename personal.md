@@ -1,6 +1,6 @@
 ---
 title: Personal
-feature_image: ../images/yosemite.jpg 
+feature_image: ../images/leavitt.jpg 
 
 ---
 
