@@ -7,8 +7,8 @@ title: Research
 {% include figure.html image="/assets/photos/graduation with loepp.jpg" caption="Me (left), Susan Loepp (right)" position="left" width="300" height="800" %}
 *Uncountable n-dimensional Excellent Regular Local Rings with Countable Spectra* <br/>
 (Senior Undergrad Thesis) advised by Susan Loepp.<br/>
-[[paper]](https://arxiv.org/abs/1811.07675) [[slides]](/assets/jmm thesis talk slides.pdf)
-[[poster]](/assets/jmm thesis poster.pdf)
+[[paper]](https://arxiv.org/abs/1811.07675) [[slides]](/assets/math/jmm thesis talk slides.pdf)
+[[poster]](/assets/math/jmm thesis poster.pdf)
 
 *S. Loepp and A. Michaelsen. *Uncountable n-dimensional Excellent Regular Local Rings with Countable Spectra*. Trans Amer. Math. Soc. **373** (2020) pp.479-490.*
 
@@ -18,7 +18,7 @@ title: Research
 {% include figure.html image="/assets/photos/emory reu photo.jpg" caption="Weitao (left), Me, Emily (right)" position="right" width="300" height="800" %}
 *Lacunary Eta-quotients modulo powers of primes* <br/>
 (Emory REU 2017) with Tessa Cotron, Emily Stamm, and Weitao Zhu. Advised by Ken Ono.<br/>
-[[paper]](https://arxiv.org/abs/1707.04627) [[slides]](/assets/jmm emory REU slides.pdf)
+[[paper]](https://arxiv.org/abs/1707.04627) [[slides]](/assets/math/jmm emory REU slides.pdf)
 
 *Cotron, T., Michaelsen, A., Stamm, E. et al. Lacunary eta-quotients modulo powers of primes. Ramanujan J. **53** (2020) no.2 pp.269-284.*
 <!-- [[paper]](https://doi.org/10.1007/s11139-020-00257-y) -->
