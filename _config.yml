@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://anyamichaelsen.com'
 baseurl: ''
 title: 'Home'
 description: 'Anya Michaelsen'
@@ -36,21 +36,18 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-# - title: About
-#   url: /about/
 - title: Math
   url: /math/
 - title: Data Science
   url: /datascience/
 - title: Personal
   url: /personal/
-# - title: Blog
-#   url: /blog/
+
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: Back to Home
+  url: /
 
 # Collections
 collections:
