@@ -17,7 +17,7 @@ out of affine varieties, called Nullstellenfont.
 Our [article](https://www.tandfonline.com/doi/abs/10.1080/10724117.2020.1714365?fbclid=IwAR0Avop2MSE8z0_c5NYh2qT4WVkVOG-gnbsU2Z4WwCt4F8OZNrRt4WNwmxE&journalCode=umho20)
  about it appeared in the April 2020
 edition of [Math Horizons](https://www.maa.org/press/periodicals/math-horizons) and was later featured in [The Best Writing on Mathematics](https://press.princeton.edu/series/the-best-writing-on-mathematics) [2021 Edition](https://press.princeton.edu/books/paperback/9780691225708/the-best-writing-on-mathematics-2021).  We also created code to convert a string of text to an affine variety and
-compute the defining equation. You can see an example [here](/assets/anya-nullstellenfont.pdf). You can
+compute the defining equation. You can see an example [here](/assets/math/anya-nullstellenfont.pdf). You can
 also [make your own text](https://sites.google.com/williams.edu/nullstellenfont/) or check out the [code](https://github.com/bclogsdon/nullstellenfont).
 
 
