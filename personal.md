@@ -3,6 +3,7 @@ title: Personal
 feature_image: ../images/leavitt.jpg 
 ---
 
+{% include figure.html image="/assets/photos/hiking_white_mountain.jpg"  width="400" height="800" position="right" %}
 I enjoy hiking/backpacking, climbing, skiing, and more recently running. When I'm not in the great outdoors I love hanging out at coffee shops, board games and word games, cooking, and sometimes trying my hand at baking. 
 
 Recently I've been enjoying the popular game [Wordle](https://www.nytimes.com/games/wordle/index.html), as well as many of the variants that have spun off from it. In particular:
