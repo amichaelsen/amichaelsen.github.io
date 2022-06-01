@@ -4,6 +4,7 @@ feature_image: images/kirkwood.jpg
 aside: false
 ---
 
+{% include figure.html image="/assets/photos/portrait.jpg"  width="200" height="400" position="right" %}
 Hi, my name is Anya Michaelsen. I am a third year graduate student in mathematics at UC Berkeley advised by [Melanie Wood](http://people.math.harvard.edu/~mmwood/).
 For undergrad I attended Williams College where I completed my [thesis](/research) with Susan Loepp.
 My research interests are in (algebraic) number theory and arithmetic statistics. For more information on my mathematical research, qualifying exam preparation/advice, or math related articles see my [math page](/math).
