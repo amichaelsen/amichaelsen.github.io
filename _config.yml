@@ -77,3 +77,7 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+
+# Google Analytics
+google_analytics: UA-210867698-1
